@@ -1,7 +1,6 @@
 /*FONT*/
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Varela+Round&display=swap');
 *{
 	margin: 0;
 }
@@ -22,7 +21,12 @@ h1{
 	margin-top: 1%;
 	font-size: 50px;
 	margin: 0 auto 0 auto;
-	font-family: 'Varela Round';
+	font-family: 'Sacramento', cursive;
+}
+
+.sous_titre{
+	font-size: 25px;
+	font-family: 'Montserrat';
 }
 
 .top_cloud, .bottom_cloud{
